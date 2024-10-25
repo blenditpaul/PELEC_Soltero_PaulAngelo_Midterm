@@ -1,0 +1,52 @@
+body {
+    background-color: red;
+}
+
+p, ul, ol {
+    font-family: 'Poppins';
+    font-weight: 800;
+}
+
+.description {
+    color:aquamarine;
+}
+
+#header {
+    text-decoration: line;
+    text-align: center;
+}
+
+
+.font1 {
+    font-family: Poppins;
+    font-size: 12px; 
+    font-weight: 900;
+    text-align: center;
+    text-decoration: none;
+    line-height: 200%;
+    letter-spacing: 10px;
+    text-shadow: 2px 2px magenta;
+
+}
+
+
+
+.font {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 12px;
+    color: white;
+    font-weight: 800; /* Maximum: 900 */
+    text-align: center;
+    text-decoration: wavy;
+    line-height: 200%;
+    letter-spacing: 10px;
+    text-transform:uppercase;
+    text-shadow: 2px 2px black;
+}
+
+.background {
+    background-image: url('2024\ Fiesta\ sa\ Consolacion-2.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+}
